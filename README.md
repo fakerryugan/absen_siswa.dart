@@ -1,16 +1,4 @@
-# projekc_1
+### nama  :fatkur rohman irham
+### nim   :362358302012
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![11-18-2024 (10-46-41)](https://github.com/user-attachments/assets/1f11c2d8-bd73-48e7-b46a-c8f5e197aef4)
